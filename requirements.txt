@@ -1,0 +1,7 @@
+# Core dependencies for E2B R3 ICSR XML Generator
+
+# XML processing
+lxml>=4.9.0
+
+# Python version compatibility
+typing-extensions>=4.0.0; python_version < '3.8'
